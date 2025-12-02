@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Lis 25, 2025 at 09:10 AM
+-- Generation Time: Dec 02, 2025 at 08:05 AM
 -- Wersja serwera: 10.4.32-MariaDB
 -- Wersja PHP: 8.2.12
 
@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `students` (
 --
 
 INSERT INTO `students` (`id`, `name`, `surname`, `user_id`) VALUES
-(1, 'Karol', 'May', 2);
+(1, 'Karol', 'Maysdfghjkl', 2);
 
 -- --------------------------------------------------------
 
